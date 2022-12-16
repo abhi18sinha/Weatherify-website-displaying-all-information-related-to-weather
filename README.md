@@ -6,8 +6,6 @@ Weatherify is a one site destination for all the weather related updates. One ca
 ## Technologies
 * **Languages**: HTML5, CSS3, JavaScript
 
-## Dataset : weatherSVG.svg
-
 ## Snapshots :
 
 ### Front Page
