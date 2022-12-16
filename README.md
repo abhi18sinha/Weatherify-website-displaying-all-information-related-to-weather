@@ -1,7 +1,7 @@
 # Weatherify
 Weatherify is a one site destination for all the weather related updates. One can check the weather of a particular state or general news and news regarding weather.
 
-[Live Link]([https://weatherifyonline.vercel.app/])
+[Live Link](https://weatherifyonline.vercel.app/)
 
 ## Technologies
 * **Languages**: HTML5, CSS3, JavaScript
